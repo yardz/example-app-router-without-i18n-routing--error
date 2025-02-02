@@ -98,7 +98,7 @@ export default function LoginPage() {
           <div className="text-center">
             <UsersIcon className="mx-auto size-14 text-slate-900" />
             <h1 className="mt-4 text-4xl font-semibold tracking-tight text-slate-900">
-              {t('title')}
+              {t('title', {testMyVar: 'Testing my TEXT'})}
             </h1>
             <p className="mt-2 text-slate-700">{t('description')}</p>
           </div>

@@ -21,7 +21,7 @@
     "invalidPassword": "Bitte geben Sie ein Passwort ein.",
     "login": "Anmelden",
     "password": "Passwort",
-    "title": "Willkommen zurück"
+    "title": "Willkommen zurück {testMyVar}"
   },
   "ProfilePage": {
     "title": "Profil"
